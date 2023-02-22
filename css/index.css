@@ -1,0 +1,101 @@
+
+.navbar-brand{
+    color: rgb(24, 24, 138);
+}
+.btn{
+    border-radius: 50px;
+    border-color:45, 45, 171;
+    border-width: 2px;
+    background-color:rgb(45, 45, 171);
+   color: aliceblue;
+    
+}
+.wllt{
+    padding-left: 150px;
+}
+.row{
+    padding: 30px;
+}
+
+.row1{
+    background-color: rgb(45, 45, 171);
+    padding: 20px;
+    padding-left: 6px;
+    border-radius: 50px;
+    height: 100%;
+    width: 60px;
+    padding-right: 10px;
+    text-align: center;
+    line-height: 50px;
+    
+
+}
+aside{
+    height: 150vh;
+    float: left;
+    
+}
+
+.sidebar{
+    height: 5rem;
+}
+.search{
+    border-radius: 10px;
+}
+
+.material-symbols-sharp {
+    color: aliceblue;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+  
+}
+.card-img-top{
+   border-radius: 50px;
+   height: 250px;
+   width: 280px;
+   padding-right:20px ;
+}
+.card{
+    height: 95%;
+    width: 100%;
+    border-radius: 50px;
+    
+    
+}
+.body{
+    background-color: rgb(224, 224, 237);
+}
+.img-fluid{
+    height: 90px;
+    width: 80px;
+}
+.graph{
+    margin-top: -100px;
+}
+.graph2{
+    margin-top: -250px;
+    margin-left: 1290px;
+    
+}
+.graph3{
+    margin-top: 60px;
+    margin-left: 8px;
+    
+    
+}
+.graph4{
+    margin-top: 60px;
+    margin-left: -130px;
+    
+}
+.graph5{
+    margin-top: 60px;
+    
+    
+}
+.add{
+    padding: 75px;
+}
